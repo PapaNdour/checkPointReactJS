@@ -1,0 +1,26 @@
+.menu{
+    font-size: 1.2em;
+    
+    
+}
+
+ul{
+    width: 90%;
+    justify-items: center;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+   
+}
+
+li a{
+    font-weight:bold;
+    text-decoration: none;
+    color: rgba(12, 31, 75, 0.599);
+    padding-left: 60px;
+}
+li a:hover{
+   font-weight: bold;
+   color: #07c807; 
+}

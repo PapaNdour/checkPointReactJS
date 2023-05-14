@@ -1,0 +1,54 @@
+.techno-Add{
+    background-color:rgb(180, 250, 153);
+    padding: 20px;
+}
+label{
+    font-weight:bolder;
+    font-size: 18px;
+}
+.btn{
+    /*background-color: #4CAF50;*/
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    font-weight: bolder;
+}
+.bi{
+    padding-right: 10px;
+    color: yellowgreen;
+}
+input[type=text]{
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+textarea{
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border:1px solid white;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  h1 {
+    text-align: center;
+  }
